@@ -1,0 +1,11 @@
+※使用言語は全てC#
+
+・シーン遷移
+制作時間：1週間
+機能：タイトル、説明画面、リザルト画面の移り変わり。
+スクリプト名：GameSceneLoad.cs,GameSceneMove.cs,SceneMove.cs,TitleBack.cs,TimerCount.cs
+
+・タイマー
+制作時間：3日
+機能：ゲーム中の時間制限
+スクリプト名：TimerCount.cs

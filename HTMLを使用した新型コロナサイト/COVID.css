@@ -1,0 +1,9 @@
+h1.heading
+{
+    color: crimson;
+}
+a.switch_title
+{
+    display: flex;
+    display: block;
+}
